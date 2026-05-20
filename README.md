@@ -34,7 +34,7 @@ This clean dataset acts as the foundation for preference learning, allowing for 
 
 ### The Builder
 
-Built by **AYomide**, a Computer Science Student and Viral Builder. 
+Built by **AYomide**, a Software Engineer and Visual Storyteller. 
 
 My work exists strictly at the intersection of two disciplines: **technical execution** and **storytelling**. Through video editing, web innovation, and running digital ad campaigns, I have spent years understanding what makes humans click on the front-end. 
 
